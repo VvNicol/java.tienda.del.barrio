@@ -41,7 +41,7 @@ public class Inicio {
 			switch (opcionSeleccionada) {
 			case 0:
 				
-				fw.write("Ha cerrado la sesion");
+				fw.write("Ha cerrado la sesion \n ");
 				System.out.println("Ha seleccionado la opcion 0 - Cerrar sesion");
 				System.out.println("-------------------------------------------");
 				esCerrado = true;
